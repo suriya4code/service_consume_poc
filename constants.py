@@ -1,0 +1,4 @@
+
+MAX_ALLOWED_SIZE = 1000000
+SERVICE_NOW_API_ENDPOINT = "http:www.google.com"
+SECRET_API_KEY = "!@#@#SDsdsd"
