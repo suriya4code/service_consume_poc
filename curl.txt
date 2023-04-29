@@ -1,0 +1,11 @@
+curl -X 'POST' \
+  'http://127.0.0.1:9000/uploadfiles/?name=dsd&description=sdsd&application=sdsd' \
+  -H 'accept: application/json' \
+  -H 'Content-Type: multipart/form-data' \
+  -F 'files=@surfshark-install.sh;type=application/x-shellscript' \
+  -F 'files=@image.jpg;type=image/jpeg'
+  -d '{
+	  "name": "prasath",
+	  "description": "test",
+	  "application": "app1"
+	}'

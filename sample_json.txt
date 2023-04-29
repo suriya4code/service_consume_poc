@@ -1,0 +1,12 @@
+{
+"item" : {
+	  "name": "prasath",
+	  "description": "test",
+	  "application": "app1"
+	},
+files: [
+"file_name_one.pdf" : b"dsdsdsdssssewr5etettfvrwhytht#@%$%RDFdfdfsdfr42r23542r34$#$#$%$%$%TEWTR#$%T",
+"file_name_two.xlsx" : b"dsdsdsdssssewr5etettfvrwhytht#@%$%RDFdfdfsdfr42r23542r34$#$#$%$%$%TEWTR#$%T",
+"file_name_one.csv" : b"dsdsdsdssssewr5etettfvrwhytht#@%$%RDFdfdfsdfr42r23542r34$#$#$%$%$%TEWTR#$%T",
+]
+}
